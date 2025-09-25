@@ -1,0 +1,4 @@
+src/*.o
+mrbc
+libmruby-core-debug.a
+mruby-core-debug.pc
