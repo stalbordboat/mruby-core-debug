@@ -7,6 +7,13 @@ builds its static library and bytecode compiler.
 This is called **mruby-core-debug** because it's purpose is to be the Ruby virtual machine, and core API and debugging API
 for **The Game SDK**.
 
+Ontop of the Ruby Core API, this includes:
++ Metaprogramming Methods
+  + `eval`
+  + `send`
++ Binding Class
++ ObjectSpace Module
+
 #### Build and Install
 To build you need:
 
