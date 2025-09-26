@@ -14,6 +14,8 @@ Ontop of the Ruby Core API, this includes:
 + Binding Class
 + ObjectSpace Module
 
+These are all good for debugging.
+
 #### Build and Install
 To build you need:
 
